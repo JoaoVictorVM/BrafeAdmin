@@ -1,0 +1,9 @@
+@import "globals/normalize.css";
+@import "globals/fonts.css";
+
+@import "layout/header.css";
+@import "layout/footer.css";
+
+@import "pages/home/container.css";
+@import "pages/home/sidenav.css";
+@import "pages/home/produtos.css";
